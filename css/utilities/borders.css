@@ -1,0 +1,20 @@
+body {
+    border: 2px solid orangered;
+    border-bottom: none;
+    border-top: none;
+}
+.topics-container>.topic {
+    border-radius: 5px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.code-container >.read-only {
+
+    border: 1px solid blue !important;
+}
+
+/* #javascriptYoutube{border: 2px solid darkkhaki !important;}
+#nodeJsYoutube{border: 2px solid royalblue !important;}
+#pythonYoutube{border: 2px solid mediumpurple !important;}
+#dockerYoutube{border: 2px solid darkslateblue !important;} */
